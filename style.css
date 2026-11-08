@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  padding: 24px;
+  background-color: #eef1f6;
+  color: #1f2933;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin: 0 0 12px;
+  color: #102a43;
+}
+
+h2 {
+  margin: 0 0 12px;
+  font-size: 20px;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+.page {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.card {
+  padding: 20px;
+  margin-bottom: 24px;
+  background-color: #ffffff;
+  border: 1px solid #bcccdc;
+  border-radius: 8px;
+}
+
+.form {
+  padding: 20px;
+  margin-top: 24px;
+  background-color: #ffffff;
+  border: 1px solid #bcccdc;
+  border-radius: 8px;
+}
+
+.program {
+  padding: 10px;
+  margin-top: 12px;
+  background-color: #e3f8ff;
+  border: 1px solid #81defd;
+}
+
+.service {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.button {
+  padding: 8px 16px;
+  margin-top: 8px;
+  background-color: #2f80ed;
+  color: #ffffff;
+  border: 1px solid #1c64c8;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.error {
+  padding: 8px;
+  margin-top: 12px;
+  background-color: #ffe3e3;
+  color: #ab091e;
+  border: 1px solid #ff9b9b;
+}
+
+.result {
+  padding: 10px;
+  margin-top: 12px;
+  background-color: #e3f9e5;
+  border: 1px solid #91e697;
+}
+
+.report-json {
+  padding: 10px;
+  margin-top: 12px;
+  background-color: #f0f4f8;
+  border: 1px solid #d9e2ec;
+  white-space: pre-wrap;
+}
